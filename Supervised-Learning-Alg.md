@@ -8,4 +8,10 @@ Denetimli öğrenme (Supervised Learning), bir modelin etiketlenmiş verilerden 
 Supervised Learning = Etiketli verilerle öğrenme + tahmin yapma + hatalardan kendini düzeltme süreci.
 
 
+
+
+
+
+
+
 Supervised-Learning
