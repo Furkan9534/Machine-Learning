@@ -10,7 +10,7 @@ Supervised Learning = Etiketli verilerle öğrenme + tahmin yapma + hatalardan k
 
 
 
-
+<img src="/pictures/supervisedLearning.jpeg" alt="Description" width="400">
 
 
 
