@@ -14,4 +14,19 @@ Supervised Learning = Etiketli verilerle öğrenme + tahmin yapma + hatalardan k
 
 
 
+## Başlıca Özellikler:
+
+ Her girdinin bilinen bir çıktısı vardır. Tahmin hatalarını azaltmak için kendini ayarlar. Yeni veriler üzerinde doğru tahminler yapar.
+Örneğin, eğitildiği verilerden yola çıkarak el yazısı rakamları tanır.
+
+
+
+
+### Denetimli Öğrenme Türleri
+Denetimli öğrenme, başlıca iki tür probleme uygulanabilir:
+
+Sınıflandırma: Çıktının kategorik bir değişken olduğu durumlar (örneğin, spam olan ve olmayan e-postalar, evet/hayır).
+Regresyon: Çıktının sürekli bir değişken olduğu durumlar (örneğin, konut fiyatlarının veya hisse senedi fiyatlarının tahmin edilmesi).
+
+
 Supervised-Learning
