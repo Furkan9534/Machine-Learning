@@ -53,4 +53,12 @@ Gradyan Artırma (Gradient Boosting): Önceki modellerin hatalarını düzeltere
 Naive Bayes Algoritması: Özelliklerin birbirinden bağımsız olduğunu varsayarak, olasılık ve Bayes Teoremi'ne dayalı olarak çalışır.
 
 
+### Örnekler
+Bankacılıkta Dolandırıcılık Tespiti: Etiketlenmiş işlem verilerini kullanarak dolandırıcılık faaliyetlerini belirler ve tahmin eder.
+Parkinson Hastalığı Tahmini: Ses kayıtları, motor semptomlar ve klinik ölçümler gibi tıbbi verileri analiz ederek kalıpları belirler ve bir hastanın hastalığı olup olmadığını tahmin eder.
+Müşteri Kaybı Tahmini: Geçmiş müşteri verilerini kullanarak bir müşterinin bir hizmeti terk edip etmeyeceğini tahmin eder.
+Kanser Hücresi Sınıflandırması: Kanser hücreleri için özelliklerine dayalı olarak denetimli öğrenme uygular ve bunların 'kötü huylu' veya 'iyi huylu' olup olmadığını belirler.
+Hisse Senedi Fiyatı Tahmini: Geçmiş verileri kullanarak hisse senedi trendlerini tahmin eder ve yatırım kararlarını destekler.
+
+
 Supervised-Learning
